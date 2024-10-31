@@ -1,0 +1,248 @@
+# Copyright (C) 2019 ZintaThemes
+# This file is distributed under the same license as the PricingBlock plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: PricingBlock 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pricingblock\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-08-15T12:02:07+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: pricingblock\n"
+
+#. Plugin Name of the plugin
+#: includes/class-pricingblock-blocks.php:50
+#: includes/class-pricingblock-help.php:41
+msgid "PricingBlock"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://pricingblock.zintathemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "With PricingBlock you can create modren pricing table with Gutenberg in just few clicks"
+msgstr ""
+
+#. Author of the plugin
+msgid "ZintaThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://zintathemes.com/"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:34
+msgid "you don`t have Gutenberg editor running on your site."
+msgstr ""
+
+#: includes/class-pricingblock-help.php:35
+msgid "You`ll need WordPress version 5.0 or higher for PricingBlock to work."
+msgstr ""
+
+#: includes/class-pricingblock-help.php:41
+msgid "Version"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:46
+msgid "Contact Us"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:50
+msgid "First of all, thank you for using PricingBlock."
+msgstr ""
+
+#: includes/class-pricingblock-help.php:51
+msgid "If we can be of further assistance please contact us at"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:52
+msgid "CodeCanyon"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:53
+msgid "If you like it, Please don't forget to write a good review."
+msgstr ""
+
+#: includes/class-pricingblock-help.php:62
+msgid "Click here to write your reivew."
+msgstr ""
+
+#: includes/class-pricingblock-help.php:72
+msgid "Need help ? You want to report a bug ?"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:73
+msgid "You can find us on:"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:76
+msgid "Plugin Page"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:77
+msgid "Plugin Website"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:78
+msgid "Our Website"
+msgstr ""
+
+#: includes/class-pricingblock-adminhooks.php:159
+#: includes/class-pricingblock-adminhooks.php:160
+msgid "PricingBlock Help"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3048
+msgid "Basic"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3049
+#: assets/js/pricingblock.bundle.js:3053
+#: assets/js/pricingblock.bundle.js:3058
+#: assets/js/pricingblock.bundle.js:3063
+msgid "Sign up"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3052
+msgid "Standard"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3056
+msgid "Expert"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3057
+msgid "Featured"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3062
+msgid "Premium"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3148
+msgid "Pricing Block"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3184
+msgid "Pricing Table Settings"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3186
+msgid "Clean Style"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3194
+msgid "Zoom Effect"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3202
+msgid "Apply Gradient"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3210
+msgid "Apply Transparency"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3218
+msgid "Apply Shadow"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3226
+msgid "Color Settings"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3235
+msgid "Primary Color"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3243
+msgid "Secondary Color"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3328
+msgid "Pricing Plan"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3330
+msgid "Single table."
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3445
+msgid "Plan Settings"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3447
+msgid "Featured Paln"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3455
+msgid "Plan Icon"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3456
+msgid "Insert icon class"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3457
+msgid "Search for icon"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3466
+msgid "Background Settings"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3470
+#: assets/js/pricingblock.bundle.js:3520
+#: assets/js/pricingblock.bundle.js:3522
+#: assets/js/pricingblock.bundle.js:3547
+#: assets/js/pricingblock.bundle.js:3549
+msgid "Background Color"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3490
+msgid "Remove"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3493
+msgid "Background Image"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3502
+msgid "Ribbon Settings"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3505
+msgid "Ribbon Text"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3512
+#: assets/js/pricingblock.bundle.js:3514
+#: assets/js/pricingblock.bundle.js:3539
+#: assets/js/pricingblock.bundle.js:3541
+msgid "Text Color"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3529
+msgid "Button Settings"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3532
+msgid "Button Link"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3577
+msgid "Heading"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3603
+msgid "Features Here"
+msgstr ""
+
+#: assets/js/pricingblock.bundle.js:3619
+msgid "Title"
+msgstr ""

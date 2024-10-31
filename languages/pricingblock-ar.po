@@ -1,0 +1,248 @@
+# Copyright (C) 2019 ZintaThemes
+# This file is distributed under the same license as the PricingBlock plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: PricingBlock 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pricingblock\n"
+"POT-Creation-Date: 2019-08-15T12:02:07+02:00\n"
+"PO-Revision-Date: 2019-08-15 16:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Domain: pricingblock\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#. Plugin Name of the plugin
+#: includes/class-pricingblock-blocks.php:50
+#: includes/class-pricingblock-help.php:41
+msgid "PricingBlock"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://pricingblock.zintathemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With PricingBlock you can create modren pricing table with Gutenberg in just "
+"few clicks"
+msgstr ""
+"بواسطة PricingBlock تستطيع إنشاء جدول تسعيرة حديث بإستخدام المحرر غوتينبيرغ"
+
+#. Author of the plugin
+msgid "ZintaThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://zintathemes.com/"
+msgstr ""
+
+#: includes/class-pricingblock-help.php:34
+msgid "you don`t have Gutenberg editor running on your site."
+msgstr "أنت لا تملك غوتينبيرغ في موقعك."
+
+#: includes/class-pricingblock-help.php:35
+msgid "You`ll need WordPress version 5.0 or higher for PricingBlock to work."
+msgstr "تحتاج إلي ووردبريس بإصدار 5.0 أو أعلى لتتمكن من إستخدام مكَون الأسعار."
+
+#: includes/class-pricingblock-help.php:41
+msgid "Version"
+msgstr "إصدار"
+
+#: includes/class-pricingblock-help.php:46
+msgid "Contact Us"
+msgstr "أتصل بنا"
+
+#: includes/class-pricingblock-help.php:50
+msgid "First of all, thank you for using PricingBlock."
+msgstr "في البداية، شكرا لإستخدامك PricingBlock."
+
+#: includes/class-pricingblock-help.php:51
+msgid "If we can be of further assistance please contact us at"
+msgstr "إذا كنت ترغب في المساعدة الرجاء لا تردد في الإتصال بنا"
+
+#: includes/class-pricingblock-help.php:52
+msgid "CodeCanyon"
+msgstr "CodeCanyon"
+
+#: includes/class-pricingblock-help.php:53
+msgid "If you like it, Please don't forget to write a good review."
+msgstr "إذا أعجبتك لا تنسى إضافة تقييم جيد للإضافة."
+
+#: includes/class-pricingblock-help.php:62
+msgid "Click here to write your reivew."
+msgstr "أضغط هنا لإضافة تقييم."
+
+#: includes/class-pricingblock-help.php:72
+msgid "Need help ? You want to report a bug ?"
+msgstr "تريد المساعدة؟ أو ترغب في الإبلاغ عن مشكلة؟"
+
+#: includes/class-pricingblock-help.php:73
+msgid "You can find us on:"
+msgstr "يمكنك التواصل معنا عبر:"
+
+#: includes/class-pricingblock-help.php:76
+msgid "Plugin Page"
+msgstr "الصفحة الرئيسية"
+
+#: includes/class-pricingblock-help.php:77
+msgid "Plugin Website"
+msgstr "الموقع الرسمي"
+
+#: includes/class-pricingblock-help.php:78
+msgid "Our Website"
+msgstr "موقعنا"
+
+#: includes/class-pricingblock-adminhooks.php:159
+#: includes/class-pricingblock-adminhooks.php:160
+msgid "PricingBlock Help"
+msgstr "مساعدة PricingBlock"
+
+#: assets/js/pricingblock.bundle.js:3048
+msgid "Basic"
+msgstr "أساسي"
+
+#: assets/js/pricingblock.bundle.js:3049 assets/js/pricingblock.bundle.js:3053
+#: assets/js/pricingblock.bundle.js:3058 assets/js/pricingblock.bundle.js:3063
+msgid "Sign up"
+msgstr "تسجيل"
+
+#: assets/js/pricingblock.bundle.js:3052
+msgid "Standard"
+msgstr "إبتدائي"
+
+#: assets/js/pricingblock.bundle.js:3056
+msgid "Expert"
+msgstr "متقدم"
+
+#: assets/js/pricingblock.bundle.js:3057
+msgid "Featured"
+msgstr "مميز"
+
+#: assets/js/pricingblock.bundle.js:3062
+msgid "Premium"
+msgstr "محترف"
+
+#: assets/js/pricingblock.bundle.js:3148
+msgid "Pricing Block"
+msgstr "جدول التسعيرة"
+
+#: assets/js/pricingblock.bundle.js:3184
+msgid "Pricing Table Settings"
+msgstr "إعدادات الجدول"
+
+#: assets/js/pricingblock.bundle.js:3186
+msgid "Clean Style"
+msgstr "نمط نظيف"
+
+#: assets/js/pricingblock.bundle.js:3194
+msgid "Zoom Effect"
+msgstr "تأثير التكبير"
+
+#: assets/js/pricingblock.bundle.js:3202
+msgid "Apply Gradient"
+msgstr "تفعيل التدرج"
+
+#: assets/js/pricingblock.bundle.js:3210
+msgid "Apply Transparency"
+msgstr "تفعيل الشفافية"
+
+#: assets/js/pricingblock.bundle.js:3218
+msgid "Apply Shadow"
+msgstr "تأثير الظل"
+
+#: assets/js/pricingblock.bundle.js:3226
+msgid "Color Settings"
+msgstr "إعدادات الألوان"
+
+#: assets/js/pricingblock.bundle.js:3235
+msgid "Primary Color"
+msgstr "اللون الأساسي"
+
+#: assets/js/pricingblock.bundle.js:3243
+msgid "Secondary Color"
+msgstr "اللون الإضافي"
+
+#: assets/js/pricingblock.bundle.js:3328
+msgid "Pricing Plan"
+msgstr "الخطة"
+
+#: assets/js/pricingblock.bundle.js:3330
+msgid "Single table."
+msgstr "عمود واحد."
+
+#: assets/js/pricingblock.bundle.js:3445
+msgid "Plan Settings"
+msgstr "إعدادات الخطة"
+
+#: assets/js/pricingblock.bundle.js:3447
+msgid "Featured Paln"
+msgstr "خطة مميزة"
+
+#: assets/js/pricingblock.bundle.js:3455
+msgid "Plan Icon"
+msgstr "الأيقونة"
+
+#: assets/js/pricingblock.bundle.js:3456
+msgid "Insert icon class"
+msgstr "أضف رمز الأيقونة"
+
+#: assets/js/pricingblock.bundle.js:3457
+msgid "Search for icon"
+msgstr "البحث عن أيقونة"
+
+#: assets/js/pricingblock.bundle.js:3466
+msgid "Background Settings"
+msgstr "إعدادات الخلفية"
+
+#: assets/js/pricingblock.bundle.js:3470 assets/js/pricingblock.bundle.js:3520
+#: assets/js/pricingblock.bundle.js:3522 assets/js/pricingblock.bundle.js:3547
+#: assets/js/pricingblock.bundle.js:3549
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: assets/js/pricingblock.bundle.js:3490
+msgid "Remove"
+msgstr "إزالة"
+
+#: assets/js/pricingblock.bundle.js:3493
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: assets/js/pricingblock.bundle.js:3502
+msgid "Ribbon Settings"
+msgstr "إعدادات الشريط"
+
+#: assets/js/pricingblock.bundle.js:3505
+msgid "Ribbon Text"
+msgstr "نص الشريط"
+
+#: assets/js/pricingblock.bundle.js:3512 assets/js/pricingblock.bundle.js:3514
+#: assets/js/pricingblock.bundle.js:3539 assets/js/pricingblock.bundle.js:3541
+msgid "Text Color"
+msgstr "لون النص"
+
+#: assets/js/pricingblock.bundle.js:3529
+msgid "Button Settings"
+msgstr "إعدادات الزر"
+
+#: assets/js/pricingblock.bundle.js:3532
+msgid "Button Link"
+msgstr "رابط زر"
+
+#: assets/js/pricingblock.bundle.js:3577
+msgid "Heading"
+msgstr "العنوان"
+
+#: assets/js/pricingblock.bundle.js:3603
+msgid "Features Here"
+msgstr "المميزات"
+
+#: assets/js/pricingblock.bundle.js:3619
+msgid "Title"
+msgstr "العنوان"
